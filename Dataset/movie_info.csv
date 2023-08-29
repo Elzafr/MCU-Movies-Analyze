@@ -1,0 +1,33 @@
+movie_title,release_date,season,phase,production_budget_in_million_(USD),worldwide_collection_in_million_(USD),tomatometer,tomato_audience_score,imdb,metascore,meta_user_score
+Iron Man,5/2/2008,Spring,1,140,585.37,9.4,9.1,7.9,7.9,8.6
+The Incredible Hulk,6/13/2008,Summer,1,150,264.77,6.7,7,6.6,6.1,7
+Iron Man 2,5/7/2010,Spring,1,200,623.93,7.2,7.1,6.9,5.7,6.4
+Thor,5/6/2011,Spring,1,150,449.33,7.7,7.6,7,5.7,7.1
+Captain America: The First Avenger,7/22/2011,Summer,1,140,370.57,7.9,7.5,6.9,6.6,6.8
+The Avengers,5/4/2012,Spring,1,220,1518.82,9.1,9.1,8,6.9,8
+Iron Man 3,5/3/2013,Spring,2,200,1214.81,7.9,7.8,7.1,6.2,6.7
+Thor: The Dark World,11/8/2013,Fall,2,170,644.78,6.6,7.5,6.8,5.4,7.1
+Captain America: The Winter Soldier,4/4/2014,Spring,2,170,714.42,9,9.2,7.8,7,8.3
+Guardians of the Galaxy,8/1/2014,Summer,2,170,773.35,9.2,9.2,8,7.6,8.2
+Avengers: Age of Ultron,5/1/2015,Spring,2,250,1402.81,7.6,8.3,7.3,6.6,7.1
+Ant-Man,7/17/2015,Summer,2,130,519.31,8.3,8.5,7.3,6.4,7.5
+Captain America: Civil War,5/6/2016,Spring,3,250,1153.34,9,8.9,7.8,7.5,8
+Doctor Strange,11/4/2016,Fall,3,165,677.8,8.9,8.5,7.5,7.2,8
+Guardians of the Galaxy Vol. 2,5/5/2017,Spring,3,200,863.76,8.5,8.7,7.6,6.7,7.8
+Spider-Man: Homecoming,7/7/2017,Summer,3,175,880.17,9.2,8.7,7.4,7.3,7.6
+Thor: Ragnarok,11/3/2017,Fall,3,180,853.98,9.3,8.7,7.9,7.4,7.8
+Black Panther,2/16/2018,Winter,3,200,1347.6,9.6,7.9,7.3,8.8,6.3
+Avengers: Infinity War,4/27/2018,Spring,3,325,2048.36,8.5,9.1,8.4,6.8,8.6
+Ant-Man and the Wasp,7/6/2018,Summer,3,162,622.67,8.7,8.1,7,7,7.1
+Captain Marvel,3/8/2019,Spring,3,160,1128.46,7.9,4.5,6.8,6.4,3
+Avengers: Endgame,4/26/2019,Spring,3,356,2797.5,9.4,9,8.4,7.8,7.9
+Spider-Man: Far From Home,7/2/2019,Summer,3,160,1131.93,9,9.5,7.4,6.9,7.6
+Black Widow,7/9/2021,Summer,4,200,379.75,7.9,9.1,6.7,6.7,6.1
+Shang-Chi and the Legend of the Ten Rings,9/3/2021,Fall,4,150,432.24,9.1,9.8,7.4,7.1,7.1
+Eternals,11/5/2021,Fall,4,200,402.06,4.7,7.8,6.4,5.2,6.3
+Spider-Man: No Way Home,12/17/2021,Winter,4,200,1892.62,9.3,9.8,8.4,7.1,8.6
+Doctor Strange: in the Multiverse of Madness,5/5/2022,Spring,4,200,955,7.4,8.5,7,6,6
+Thor: Love and Thunder,7/6/2022,Summer,4,250,723.6,6.5,7.7,6.7,5.7,5.3
+Black Panther: Wakanda Forever,11/9/2022,Fall,4,200,859.2,8.3,9.4,6.7,6.7,5.2
+Ant-Man and the Wasp: Quantumania,2/17/2023,Winter,5,200,476.1,4.6,8.2,6.1,4.8,5.6
+Guardians of the Galaxy Vol. 3,5/5/2023,Spring,5,250,845.3,8.2,9.4,8.1,6.4,8
